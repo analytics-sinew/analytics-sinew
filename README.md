@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiran
-- 👀 I’m interested in Data Analytics & Visualization
-- 🌱 I’m currently learning Web Development with Python & Flask
-- 💞️ I’m looking to collaborate on Building Dashboard Web apps
+- 👀 I’m passionate about Data Analytics & Visualization
+- 🌱 I’m currently learning Web Analytics with Python & Flask
+- 💞️ I’m looking to collaborate on Building  Analytical Dashboard Web apps
 
 <!---
 analytics-sinew/analytics-sinew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
